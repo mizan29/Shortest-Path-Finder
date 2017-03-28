@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/mizanurrahmun/.android/build-cache/bd2ccfe1842e5d6748df740604bd1c18abc426f8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/mizanurrahmun/Downloads/ShortestPath/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fdbce1eb130f0753925551eb87c139d45644410e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mizanurrahmun/.android/build-cache/f8ea2620f77f37263a4d4a9c6a4bd35426da99d5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mizanurrahmun/Downloads/ShortestPath/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b218394e3ba6d3a1218733ca44fe84138d0db572/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mizanurrahmun/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-all/1.3/63a21ebc981131004ad02e0434e799fd7f3a8d5a/hamcrest-all-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="63a21ebc981131004ad02e0434e799fd7f3a8d5a">
+        <dex dex="/Users/mizanurrahmun/Downloads/ShortestPath/app/build/intermediates/transforms/dex/debug/folders/1000/10/hamcrest-all-1.3_b5887f7f5c2f602222ea1cd0f624f587b4f70754/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mizanurrahmun/.android/build-cache/504a604b5a9431a97a5630c5a0784ef5eeb9bbcd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/mizanurrahmun/Downloads/ShortestPath/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5444ffd72695a7d7ae9886557d2d83ea690d3008/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mizanurrahmun/.android/build-cache/917d8da81cced466761c4e572e5affee4c584f30/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/mizanurrahmun/Downloads/ShortestPath/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f901893dd17b87d27f29ef8e875ce7c61870628/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mizanurrahmun/Downloads/ShortestPath/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b8afd1a9c9af764b0b82c1333a1ff29e840009da">
+        <dex dex="/Users/mizanurrahmun/Downloads/ShortestPath/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_66e82d8fc47c753630beb9e81d61cf7ec80353e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mizanurrahmun/.android/build-cache/c9b45179769c6cbafd75621eca106c500b5cb132/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/mizanurrahmun/Downloads/ShortestPath/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e3a09c5bc982c7a2be46c0adf37a8390fa4d08a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mizanurrahmun/.android/build-cache/844d32c228798c1513a463100d3279aa20db8b24/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/mizanurrahmun/Downloads/ShortestPath/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e8c8dadd26dd9892288d0ee423cfcd4140cc8b99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mizanurrahmun/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/mizanurrahmun/Downloads/ShortestPath/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_fe36ec2eb3025acaf0a628a0e21bd18da08bab49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mizanurrahmun/Downloads/ShortestPath/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/mizanurrahmun/Downloads/ShortestPath/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_959fb835150d4fcbf7bb5dddc9131e8852ab44ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mizanurrahmun/.android/build-cache/01e713bd2d2bfe610fdf8a16882d6d07c9943aa2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/mizanurrahmun/Downloads/ShortestPath/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_42a009f0d0459f7af77e51b307f1a6402ef3c012/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mizanurrahmun/.android/build-cache/3579b36cb3529053b0aae24acd8c4bcdde786a94/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/mizanurrahmun/Downloads/ShortestPath/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f8555bf8caceb6aecc4b625d572fdf24d1097fca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mizanurrahmun/.android/build-cache/d020161fb8f8c6feb21c02292457a73ef3c25058/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/mizanurrahmun/Downloads/ShortestPath/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1f34bf3db92c2b7f03f514c0eeea80578933ba68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mizanurrahmun/.android/build-cache/4f8f076d5f33f6a3f0c3f0c6603b33e620ae92dc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/mizanurrahmun/Downloads/ShortestPath/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1331bb74550755cbb9d1552ed9b049d4f89510ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mizanurrahmun/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/mizanurrahmun/Downloads/ShortestPath/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_3ddc5ed46308b976b86689ec8d4b42541fe9c60f/classes.dex" />
+    </item>
+
+</items>
