@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Shortest Path</string>
-
-    <string name="enter_graph">Enter your Graph using single Space</string>
-    <string name="find_path">Find Path</string>
-</resources>
