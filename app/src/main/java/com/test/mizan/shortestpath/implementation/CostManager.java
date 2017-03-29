@@ -19,11 +19,13 @@ public class CostManager {
         this.pathFinder = pathFinder;
     }
 
+    // return output result
     public Output result(Graph graph) {
         List<PathInput> path = pathFinder.findShortestPath(graph);
         return new Output(path.size() == graph.getGraphWidth(), totalCost(path), pathIndexesInRow(path));
     }
 
+    // Total cost from an Input Path
     private int totalCost(List<PathInput> paths) {
         int total = 0;
         for (PathInput path : paths) {
@@ -32,6 +34,7 @@ public class CostManager {
         return total;
     }
 
+    // return list of row indexes from a paths
     private List<Integer> pathIndexesInRow(List<PathInput> path) {
         List<Integer> indexes = new ArrayList<>();
         for (PathInput input : path) {

@@ -1,9 +1,8 @@
 package com.test.mizan.shortestpath;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
-import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
@@ -15,38 +14,28 @@ import com.test.mizan.shortestpath.parser.InputParser;
 
 import java.util.List;
 
-public class MainActivity extends AppCompatActivity implements View.OnClickListener {
+import butterknife.BindView;
+import butterknife.ButterKnife;
+import butterknife.OnClick;
 
-    private EditText edit_text_input;
-    private TextView text_view_error, text_view_completed, text_view_total_cost, text_view_path;
-    private Button btn_find_path;
+public class MainActivity extends AppCompatActivity {
+
+    @BindView(R.id.edit_text_input) EditText edit_text_input;
+    @BindView(R.id.text_view_error) TextView text_view_error;
+    @BindView(R.id.text_view_completed) TextView text_view_completed;
+    @BindView(R.id.text_view_total_cost) TextView text_view_total_cost;
+    @BindView(R.id.text_view_path) TextView text_view_path;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        init();
+        ButterKnife.bind(this);
 
     }
 
-    private void init() {
-        edit_text_input = ((EditText) findViewById(R.id.edit_text_input));
-        text_view_completed = ((TextView) findViewById(R.id.text_view_completed));
-        text_view_total_cost = ((TextView) findViewById(R.id.text_view_total_cost));
-        text_view_path = ((TextView) findViewById(R.id.text_view_path));
-        text_view_error = ((TextView) findViewById(R.id.text_view_error));
-        btn_find_path = (Button) findViewById(R.id.btn_find_path);
-        btn_find_path.setOnClickListener(this);
-    }
-
-    @Override
-    public void onClick(View v) {
-        if (v == btn_find_path) {
-            getResult();
-        }
-    }
-
-    private void getResult() {
+    @OnClick(R.id.btn_find_path)
+    public void getResult() {
         try {
             InputParser inputParser = new InputParser();
             CostManager manager = new CostManager(new PathFinder(50));
